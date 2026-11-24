@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 420" role="img" aria-label="6 động tác bổ trợ tại nhà: đứng lên ngồi xuống 5 lần càng chậm càng tốt; ngồi xổm nhỏ 5 lần; bước chùng chân bắt đầu 5 lần mỗi bên, tăng dần về 8 đến 12 lần mỗi tổ; kiễng chân 5 lần; nâng chân sang bên 5 lần mỗi chân; duỗi chân ra sau giữ tới 5 giây, 5 lần mỗi chân; 2 buổi bổ trợ mỗi tuần, mỗi buổi khoảng 15 đến 20 phút">
+  <rect width="680" height="420" fill="#ffffff"/>
+  <text x="340" y="28" font-family="sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1a3a4a">6 động tác bổ trợ tại nhà</text>
+  <text x="340" y="48" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#555555">Theo Bài 19 (NHS, CDC, WHO). Số lần theo nguồn ghi trong bài.</text>
+  <g font-family="sans-serif" font-size="13" fill="#1a3a4a">
+    <rect x="40" y="66" width="290" height="76" fill="#bcd8d2"/><text x="185" y="94" text-anchor="middle" font-weight="bold">Đứng lên – ngồi xuống</text><text x="185" y="118" text-anchor="middle" font-size="12">5 lần, càng chậm càng tốt (NHS)</text>
+    <rect x="350" y="66" width="290" height="76" fill="#bcd8d2"/><text x="495" y="94" text-anchor="middle" font-weight="bold">Ngồi xổm nhỏ</text><text x="495" y="118" text-anchor="middle" font-size="12">5 lần (NHS)</text>
+    <rect x="40" y="152" width="290" height="76" fill="#2e7d6b"/><text x="185" y="180" text-anchor="middle" font-weight="bold" fill="#ffffff">Bước chùng chân</text><text x="185" y="204" text-anchor="middle" font-size="12" fill="#ffffff">Bắt đầu 5 lần mỗi bên,</text><text x="185" y="222" text-anchor="middle" font-size="12" fill="#ffffff">tăng dần về 8–12 lần mỗi tổ (CDC)</text>
+    <rect x="350" y="152" width="290" height="76" fill="#bcd8d2"/><text x="495" y="180" text-anchor="middle" font-weight="bold">Kiễng chân</text><text x="495" y="204" text-anchor="middle" font-size="12">5 lần; khó hơn thì làm không vịn (NHS)</text>
+    <rect x="40" y="238" width="290" height="76" fill="#bcd8d2"/><text x="185" y="266" text-anchor="middle" font-weight="bold">Nâng chân sang bên</text><text x="185" y="290" text-anchor="middle" font-size="12">5 lần mỗi chân (NHS)</text>
+    <rect x="350" y="238" width="290" height="76" fill="#bcd8d2"/><text x="495" y="266" text-anchor="middle" font-weight="bold">Duỗi chân ra sau</text><text x="495" y="290" text-anchor="middle" font-size="12">Giữ tới 5 giây, 5 lần mỗi chân (NHS)</text>
+  </g>
+  <text x="340" y="348" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#1a3a4a">2 buổi bổ trợ mỗi tuần, mỗi buổi khoảng 15–20 phút, làm chậm.</text>
+  <text x="340" y="368" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#1a3a4a">Tập tăng cường cơ ít nhất 2 ngày mỗi tuần (CDC, WHO).</text>
+  <text x="340" y="388" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#1a3a4a">Buổi bổ trợ 15–20 phút và bảng xếp tuần là gợi ý sắp xếp theo Bài 19.</text>
+  <text x="340" y="410" font-family="sans-serif" font-size="11" text-anchor="middle" fill="#555555">Hình minh họa tự vẽ.</text>
+</svg>

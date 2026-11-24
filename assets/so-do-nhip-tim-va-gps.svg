@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 400" role="img" aria-label="Đồng hồ và ứng dụng: vùng nhịp tim cường độ vừa 50 phần trăm tới 70 phần trăm nhịp tim tối đa, cường độ mạnh 70 phần trăm tới 85 phần trăm; nhịp tim tối đa ước tính bằng 220 trừ tuổi, ví dụ 50 tuổi là 170, vùng vừa là 85 tới 119; GPS sai số trung bình 3,2 phần trăm tới 6,1 phần trăm, xấu nhất đo thiếu tới khoảng 9 phần trăm, đứng yên khoảng 30 giây để khóa vệ tinh; cảm biến quang học dải đo 30 tới 210 nhịp mỗi phút">
+  <rect width="680" height="400" fill="#ffffff"/>
+  <text x="340" y="28" font-family="sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1a3a4a">Đồng hồ và ứng dụng: đọc đúng 3 con số</text>
+  <text x="340" y="48" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#555555">Theo Bài 17 (NHS, CDC, The Science Runner, Apple Support).</text>
+  <g font-family="sans-serif" font-size="13" fill="#1a3a4a">
+    <rect x="40" y="66" width="180" height="84" fill="#2e7d6b"/><text x="130" y="100" text-anchor="middle" font-weight="bold" fill="#ffffff">Nhịp tim</text><text x="130" y="122" text-anchor="middle" font-size="12" fill="#ffffff">(CDC)</text>
+    <rect x="230" y="66" width="410" height="84" fill="#bcd8d2"/><text x="250" y="94" font-size="12">Vừa: 50%–70% nhịp tim tối đa; mạnh: 70%–85%</text><text x="250" y="114" font-size="12">Ước tính: 220 − tuổi. Ví dụ 50 tuổi → tối đa 170,</text><text x="250" y="134" font-size="12">vùng vừa 85–119 nhịp/phút</text>
+    <rect x="40" y="160" width="180" height="84" fill="#2e7d6b"/><text x="130" y="194" text-anchor="middle" font-weight="bold" fill="#ffffff">GPS</text><text x="130" y="216" text-anchor="middle" font-size="12" fill="#ffffff">(JMIR 2020)</text>
+    <rect x="230" y="160" width="410" height="84" fill="#bcd8d2"/><text x="250" y="188" font-size="12">Sai số trung bình 3,2%–6,1%; xấu nhất đo thiếu tới ~9%</text><text x="250" y="208" font-size="12">Đứng yên ~30 giây để khóa vệ tinh; dùng tốc độ</text><text x="250" y="228" font-size="12">trung bình theo km, không chạy theo tốc độ tức thời</text>
+    <rect x="40" y="254" width="180" height="84" fill="#2e7d6b"/><text x="130" y="282" text-anchor="middle" font-weight="bold" fill="#ffffff">Cảm biến</text><text x="130" y="302" text-anchor="middle" font-size="12" fill="#ffffff">quang học</text>
+    <rect x="230" y="254" width="410" height="84" fill="#bcd8d2"/><text x="250" y="282" font-size="12">Dải đo 30–210 nhịp/phút; đèn LED nhấp nháy</text><text x="250" y="302" font-size="12">hàng trăm lần mỗi giây; đeo vừa khít giúp đo ổn định hơn</text>
+  </g>
+  <text x="340" y="368" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#1a3a4a">Con số nhịp tim CDC lấy từ bản lưu trữ chính thức của trang CDC (xem Bài 17).</text>
+  <text x="340" y="392" font-family="sans-serif" font-size="11" text-anchor="middle" fill="#555555">Hình minh họa tự vẽ.</text>
+</svg>

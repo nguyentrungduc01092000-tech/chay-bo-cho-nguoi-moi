@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 320" role="img" aria-label="Biểu đồ bốn chặng mục tiêu 5km: chặng 1 tuần 1 đến 2 chạy liên tục 1 phút rồi gần 2 phút, chặng 2 tuần 3 đến 4 chạy 3 phút rồi 5 phút, chặng 3 tuần 5 đến 6 chạy 20 phút rồi 25 phút, chặng 4 tuần 7 đến 9 chạy 25 phút rồi 28 phút rồi 30 phút">
+  <rect width="680" height="320" fill="#ffffff"/>
+  <text x="340" y="28" font-family="sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1a3a4a">Bốn chặng tới 5km đầu tiên</text>
+  <text x="340" y="48" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#555555">Mốc chạy liên tục theo bảng trong Bài 7 (theo NHS). Gợi ý sắp xếp, không phải bảng của nguồn.</text>
+  <g font-family="sans-serif" fill="#1a3a4a">
+    <rect x="70" y="248" width="100" height="12" fill="#2e7d6b"/>
+    <text x="120" y="240" font-size="12" font-weight="bold" text-anchor="middle">1' → gần 2'</text>
+    <text x="120" y="278" font-size="12" text-anchor="middle">Chặng 1</text>
+    <text x="120" y="296" font-size="11" text-anchor="middle" fill="#555555">Tuần 1–2</text>
+    <rect x="230" y="230" width="100" height="30" fill="#2e7d6b"/>
+    <text x="280" y="222" font-size="12" font-weight="bold" text-anchor="middle">3' → 5'</text>
+    <text x="280" y="278" font-size="12" text-anchor="middle">Chặng 2</text>
+    <text x="280" y="296" font-size="11" text-anchor="middle" fill="#555555">Tuần 3–4</text>
+    <rect x="390" y="110" width="100" height="150" fill="#2e7d6b"/>
+    <text x="440" y="102" font-size="12" font-weight="bold" text-anchor="middle">20' → 25'</text>
+    <text x="440" y="278" font-size="12" text-anchor="middle">Chặng 3</text>
+    <text x="440" y="296" font-size="11" text-anchor="middle" fill="#555555">Tuần 5–6</text>
+    <rect x="550" y="80" width="100" height="180" fill="#2e7d6b"/>
+    <text x="600" y="72" font-size="12" font-weight="bold" text-anchor="middle">25' → 28' → 30'</text>
+    <text x="600" y="278" font-size="12" text-anchor="middle">Chặng 4</text>
+    <text x="600" y="296" font-size="11" text-anchor="middle" fill="#555555">Tuần 7–9</text>
+    <line x1="40" y1="260" x2="660" y2="260" stroke="#999999" stroke-width="1"/>
+  </g>
+  <text x="340" y="314" font-family="sans-serif" font-size="11" text-anchor="middle" fill="#555555">Hình minh họa tự vẽ.</text>
+</svg>

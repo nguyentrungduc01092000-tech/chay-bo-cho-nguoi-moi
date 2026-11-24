@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 380" role="img" aria-label="Checklist ngày chạy gồm 8 mục: ăn nhẹ trước 1 đến 2 giờ, mang nước khi trời ấm, giày vừa chân, khởi động 5 phút, chạy tốc độ nói chuyện được, thả lỏng 5 phút, uống nước từ từ sau chạy, ngủ đủ giấc">
+  <rect width="680" height="380" fill="#ffffff"/>
+  <text x="340" y="30" font-family="sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1a3a4a">Checklist ngày chạy cho người mới</text>
+  <text x="340" y="50" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#555555">Tổng hợp từ Bài 1 và Bài 5. Hình minh họa tự vẽ.</text>
+  <g font-family="sans-serif" font-size="14" fill="#1a3a4a">
+    <rect x="60" y="72" width="20" height="20" fill="none" stroke="#1a3a4a" stroke-width="2"/><text x="95" y="88">Ăn nhẹ giàu carbohydrate 1–2 giờ trước khi chạy</text>
+    <rect x="60" y="106" width="20" height="20" fill="none" stroke="#1a3a4a" stroke-width="2"/><text x="95" y="122">Mang nước theo khi trời ấm</text>
+    <rect x="60" y="140" width="20" height="20" fill="none" stroke="#1a3a4a" stroke-width="2"/><text x="95" y="156">Giày vừa chân, dây giày buộc chắc</text>
+    <rect x="60" y="174" width="20" height="20" fill="none" stroke="#1a3a4a" stroke-width="2"/><text x="95" y="190">Khởi động bằng đi bộ nhanh 5 phút</text>
+    <rect x="60" y="208" width="20" height="20" fill="none" stroke="#1a3a4a" stroke-width="2"/><text x="95" y="224">Chạy ở tốc độ nói chuyện được</text>
+    <rect x="60" y="242" width="20" height="20" fill="none" stroke="#1a3a4a" stroke-width="2"/><text x="95" y="258">Thả lỏng: đi bộ chậm 5 phút, giãn nhẹ 10–15 giây mỗi động tác</text>
+    <rect x="60" y="276" width="20" height="20" fill="none" stroke="#1a3a4a" stroke-width="2"/><text x="95" y="292">Uống nước từ từ sau khi chạy, không uống dồn một lúc</text>
+    <rect x="60" y="310" width="20" height="20" fill="none" stroke="#1a3a4a" stroke-width="2"/><text x="95" y="326">Ngủ đủ giấc đêm trước ngày chạy</text>
+  </g>
+  <text x="340" y="362" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#555555">Dừng chạy và gặp bác sĩ nếu đau kéo dài, đau nhói đột ngột hoặc sưng nhiều.</text>
+</svg>

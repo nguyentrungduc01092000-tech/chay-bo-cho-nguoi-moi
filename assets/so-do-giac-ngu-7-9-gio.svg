@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 340" role="img" aria-label="Người trưởng thành nên ngủ ít nhất 7 giờ mỗi ngày, khoảng khuyến nghị 7 đến 9 giờ mỗi đêm; tắt thiết bị điện tử ít nhất 30 phút trước khi ngủ; tập ít nhất 30 phút thể dục nhịp điệu vừa phải; người nhạy cảm nên tập trước giờ ngủ ít nhất 1 đến 2 giờ">
+  <rect width="680" height="340" fill="#ffffff"/>
+  <text x="340" y="28" font-family="sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1a3a4a">Ngủ bao nhiêu là đủ khi mới tập chạy</text>
+  <text x="340" y="48" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#555555">Theo Bài 12 (CDC, NHLBI, Johns Hopkins).</text>
+  <g font-family="sans-serif" font-size="13" fill="#1a3a4a">
+    <text x="40" y="100" font-weight="bold">0 giờ</text>
+    <rect x="110" y="80" width="420" height="36" fill="#e8e8e8"/>
+    <rect x="110" y="80" width="294" height="36" fill="#bcd8d2"/>
+    <rect x="404" y="80" width="84" height="36" fill="#2e7d6b"/>
+    <line x1="404" y1="74" x2="404" y2="122" stroke="#1a3a4a" stroke-width="2"/>
+    <text x="404" y="140" font-size="12" text-anchor="middle">7 giờ — mốc tối thiểu (CDC)</text>
+    <text x="446" y="98" text-anchor="middle" fill="#ffffff" font-size="12">7–9 giờ</text>
+    <text x="540" y="100" font-weight="bold">10 giờ</text>
+    <text x="340" y="168" font-size="12" text-anchor="middle" fill="#555555">Khoảng khuyến nghị 7–9 giờ mỗi đêm (NHLBI)</text>
+    <text x="40" y="210">Tắt thiết bị điện tử ít nhất 30 phút trước khi ngủ (CDC)</text>
+    <text x="40" y="240">Tập ít nhất 30 phút thể dục nhịp điệu vừa phải (Johns Hopkins)</text>
+    <text x="40" y="270">Người nhạy cảm: tập trước giờ ngủ ít nhất 1–2 giờ (Johns Hopkins)</text>
+  </g>
+  <text x="340" y="322" font-family="sans-serif" font-size="11" text-anchor="middle" fill="#555555">Hình minh họa tự vẽ.</text>
+</svg>

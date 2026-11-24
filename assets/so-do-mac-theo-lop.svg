@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 340" role="img" aria-label="Mặc theo lớp khi trời lạnh: lớp trong vải thấm mồ hôi, lớp giữa giữ ấm, lớp ngoài áo khoác nhẹ chắn gió; trời nắng bôi kem chống nắng SPF 30 trước 30 phút và bôi lại sau mỗi giờ; sau buổi chạy thay đồ ướt ngay">
+  <rect width="680" height="340" fill="#ffffff"/>
+  <text x="340" y="28" font-family="sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1a3a4a">Mặc theo lớp khi trời lạnh và chống nắng</text>
+  <text x="340" y="48" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#555555">Theo bảng trong Bài 9 (Cleveland Clinic, Tổng cục Thể dục Thể thao).</text>
+  <g font-family="sans-serif" font-size="13" fill="#1a3a4a">
+    <rect x="120" y="70" width="440" height="44" fill="#bcd8d2"/><text x="340" y="97" text-anchor="middle">Lớp ngoài: áo khoác nhẹ chắn gió, phản quang khi chạy tối</text>
+    <rect x="120" y="124" width="440" height="44" fill="#8fc7b8"/><text x="340" y="151" text-anchor="middle">Lớp giữa: lớp giữ ấm</text>
+    <rect x="120" y="178" width="440" height="44" fill="#2e7d6b"/><text x="340" y="205" text-anchor="middle" fill="#ffffff">Lớp trong: vải thấm mồ hôi, sát da</text>
+  </g>
+  <text x="340" y="258" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#1a3a4a">Trời nắng: kem chống nắng SPF 30, bôi trước 30 phút, bôi lại sau mỗi giờ.</text>
+  <text x="340" y="282" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#1a3a4a">Sau buổi chạy: thay đồ ướt ngay.</text>
+  <text x="340" y="322" font-family="sans-serif" font-size="11" text-anchor="middle" fill="#555555">Hình minh họa tự vẽ.</text>
+</svg>
