@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 320" role="img" aria-label="Sơ đồ kiểm tra giày vừa chân: chừa nửa inch trước mũi giày, gót cứng giữ chân, đế trước gập ở khớp ngón chân">
   <rect width="680" height="320" fill="#ffffff"/>
   <text x="340" y="28" font-family="sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1a3a4a">Bốn điểm kiểm tra giày vừa chân</text>
-  <text x="340" y="48" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#555555">Hình minh họa tự vẽ theo UCSF Health và Penn State Health.</text>
+  <text x="340" y="48" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#555555">Hình minh họa được vẽ riêng cho website theo UCSF Health và Penn State Health.</text>
   <g>
     <path d="M120 210 L120 150 Q120 128 150 128 L300 128 Q380 128 440 150 L520 178 Q540 186 535 198 L530 210 L120 210 Z" fill="#e8f0ee" stroke="#1a3a4a" stroke-width="2"/>
     <path d="M120 210 L530 210 L530 222 L120 222 Z" fill="#2e7d6b"/>

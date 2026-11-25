@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 300" role="img" aria-label="Diễn biến đau mỏi cơ sau buổi chạy đầu: mỏi lan tỏa, rõ nhất sau 24 đến 48 giờ tức ngày hôm sau hoặc ngày thứ hai, dịu dần sau một hai ngày nghỉ; căng cơ thì dừng chạy ngay và chườm đá tối đa 20 phút mỗi lần">
   <rect width="680" height="300" fill="#ffffff"/>
   <text x="340" y="28" font-family="sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1a3a4a">Đau mỏi cơ sau buổi chạy đầu: diễn biến thường gặp</text>
-  <text x="340" y="48" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#555555">Theo Bài 11 (York Hospitals NHS Trust, Cedars-Sinai). Gợi ý sắp xếp, không phải bảng của nguồn.</text>
+  <text x="340" y="48" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#555555">Theo bài “Đau mỏi cơ sau buổi chạy đầu tiên”</text>
+  <text x="340" y="66" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#555555">(York Hospitals NHS Trust, Cedars-Sinai). Gợi ý sắp xếp, không phải bảng của nguồn.</text>
   <g font-family="sans-serif" font-size="13" fill="#1a3a4a">
     <rect x="40" y="72" width="180" height="88" fill="#bcd8d2"/><text x="130" y="98" text-anchor="middle" font-weight="bold">Buổi chạy</text><text x="130" y="118" text-anchor="middle" font-size="12">Mỏi lan tỏa,</text><text x="130" y="138" text-anchor="middle" font-size="12">chưa rõ nhất</text>
     <text x="240" y="120" font-size="20" fill="#555555">→</text>
@@ -10,5 +11,5 @@
     <rect x="480" y="72" width="180" height="88" fill="#bcd8d2"/><text x="570" y="98" text-anchor="middle" font-weight="bold">Sau 1–2 ngày nghỉ</text><text x="570" y="118" text-anchor="middle" font-size="12">Dịu dần,</text><text x="570" y="138" text-anchor="middle" font-size="12">cơ mềm lại dần</text>
   </g>
   <text x="340" y="220" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#1a3a4a">Căng cơ: dừng chạy ngay, chườm đá bọc khăn tối đa 20 phút mỗi lần (NHS).</text>
-  <text x="340" y="280" font-family="sans-serif" font-size="11" text-anchor="middle" fill="#555555">Hình minh họa tự vẽ.</text>
+  <text x="340" y="280" font-family="sans-serif" font-size="11" text-anchor="middle" fill="#555555">Hình minh họa được vẽ riêng cho website.</text>
 </svg>

@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 340" role="img" aria-label="Bốn kiểu đường chạy và buổi hợp nhất: công viên hợp buổi sáng sớm và chiều mát, vỉa hè và đường nội bộ hợp buổi chạy ngắn trong tuần, đường nhựa có xe cộ chỉ khi có vỉa hè rộng hoặc làn đi bộ và tránh giờ cao điểm, máy chạy bộ hợp ngày mưa, buổi tối muộn và tuần đầu làm quen">
   <rect width="680" height="340" fill="#ffffff"/>
   <text x="340" y="28" font-family="sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1a3a4a">Bốn kiểu đường chạy và buổi hợp nhất</text>
-  <text x="340" y="48" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#555555">Theo bảng so sánh trong Bài 6. Gợi ý sắp xếp, không phải bảng của nguồn.</text>
+  <text x="340" y="48" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#555555">Theo bảng so sánh trong bài “Chọn đường chạy và giờ chạy”. Gợi ý sắp xếp, không phải bảng của nguồn.</text>
   <g font-family="sans-serif" font-size="13" fill="#1a3a4a">
     <rect x="20" y="70" width="180" height="44" fill="#2e7d6b"/><text x="110" y="97" text-anchor="middle" fill="#ffffff">Công viên</text>
     <text x="220" y="97" font-size="12" fill="#555555">Buổi sáng sớm, buổi chiều mát</text>
@@ -12,5 +12,5 @@
     <rect x="20" y="250" width="180" height="44" fill="#2e7d6b"/><text x="110" y="277" text-anchor="middle" fill="#ffffff">Máy chạy bộ</text>
     <text x="220" y="277" font-size="12" fill="#555555">Ngày mưa, buổi tối muộn, tuần đầu làm quen</text>
   </g>
-  <text x="340" y="322" font-family="sans-serif" font-size="11" text-anchor="middle" fill="#555555">Hình minh họa tự vẽ.</text>
+  <text x="340" y="322" font-family="sans-serif" font-size="11" text-anchor="middle" fill="#555555">Hình minh họa được vẽ riêng cho website.</text>
 </svg>

@@ -1,17 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 300" role="img" aria-label="Biểu đồ cột: đoạn chạy liên tục dài nhất mỗi tuần trong lịch 8 tuần, từ 1 phút ở tuần 1 lên 28 phút ở tuần 8">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 300" role="img" aria-label="Biểu đồ cột: đoạn chạy liên tục dài nhất mỗi tuần trong lịch riêng 8 tuần của website, từ 2 phút ở tuần 1 lên 21 phút ở tuần 8">
   <rect width="680" height="300" fill="#ffffff"/>
   <text x="340" y="28" font-family="sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1a3a4a">Đoạn chạy liên tục dài nhất mỗi tuần — lịch 8 tuần</text>
-  <text x="340" y="48" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#555555">Theo NHS Couch to 5K (9 tuần). Đơn vị: phút chạy liên tục trong một buổi.</text>
+  <text x="340" y="48" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#555555">Lịch riêng của website, dựa trên nguyên tắc NHS Couch to 5K. Đơn vị: phút chạy liên tục trong một buổi.</text>
   <line x1="40" y1="240" x2="660" y2="240" stroke="#1a3a4a" stroke-width="2"/>
   <g font-family="sans-serif" font-size="12" fill="#1a3a4a">
-    <rect x="52" y="235" width="56" height="5" fill="#2e7d6b"/><text x="80" y="228" text-anchor="middle" font-weight="bold">1'</text><text x="80" y="258" text-anchor="middle">Tuần 1</text>
-    <rect x="130" y="232" width="56" height="8" fill="#2e7d6b"/><text x="158" y="225" text-anchor="middle" font-weight="bold">1'30"</text><text x="158" y="258" text-anchor="middle">Tuần 2</text>
-    <rect x="208" y="225" width="56" height="15" fill="#2e7d6b"/><text x="236" y="218" text-anchor="middle" font-weight="bold">3'</text><text x="236" y="258" text-anchor="middle">Tuần 3</text>
-    <rect x="286" y="215" width="56" height="25" fill="#2e7d6b"/><text x="314" y="208" text-anchor="middle" font-weight="bold">5'</text><text x="314" y="258" text-anchor="middle">Tuần 4</text>
-    <rect x="364" y="140" width="56" height="100" fill="#c25e3a"/><text x="392" y="133" text-anchor="middle" font-weight="bold">20'</text><text x="392" y="258" text-anchor="middle">Tuần 5</text>
-    <rect x="442" y="115" width="56" height="125" fill="#c25e3a"/><text x="470" y="108" text-anchor="middle" font-weight="bold">25'</text><text x="470" y="258" text-anchor="middle">Tuần 6</text>
-    <rect x="520" y="115" width="56" height="125" fill="#c25e3a"/><text x="548" y="108" text-anchor="middle" font-weight="bold">25'</text><text x="548" y="258" text-anchor="middle">Tuần 7</text>
-    <rect x="598" y="100" width="56" height="140" fill="#c25e3a"/><text x="626" y="93" text-anchor="middle" font-weight="bold">28'</text><text x="626" y="258" text-anchor="middle">Tuần 8</text>
+    <rect x="52" y="227" width="56" height="13" fill="#2e7d6b"/><text x="80" y="220" text-anchor="middle" font-weight="bold">2'</text><text x="80" y="258" text-anchor="middle">Tuần 1</text>
+    <rect x="130" y="223" width="56" height="17" fill="#2e7d6b"/><text x="158" y="216" text-anchor="middle" font-weight="bold">2'30"</text><text x="158" y="258" text-anchor="middle">Tuần 2</text>
+    <rect x="208" y="213" width="56" height="27" fill="#2e7d6b"/><text x="236" y="206" text-anchor="middle" font-weight="bold">4'</text><text x="236" y="258" text-anchor="middle">Tuần 3</text>
+    <rect x="286" y="200" width="56" height="40" fill="#2e7d6b"/><text x="314" y="193" text-anchor="middle" font-weight="bold">6'</text><text x="314" y="258" text-anchor="middle">Tuần 4</text>
+    <rect x="364" y="193" width="56" height="47" fill="#2e7d6b"/><text x="392" y="186" text-anchor="middle" font-weight="bold">7'</text><text x="392" y="258" text-anchor="middle">Tuần 5</text>
+    <rect x="442" y="180" width="56" height="60" fill="#2e7d6b"/><text x="470" y="173" text-anchor="middle" font-weight="bold">9'</text><text x="470" y="258" text-anchor="middle">Tuần 6</text>
+    <rect x="520" y="140" width="56" height="100" fill="#c25e3a"/><text x="548" y="133" text-anchor="middle" font-weight="bold">15'</text><text x="548" y="258" text-anchor="middle">Tuần 7</text>
+    <rect x="598" y="100" width="56" height="140" fill="#c25e3a"/><text x="626" y="93" text-anchor="middle" font-weight="bold">21'</text><text x="626" y="258" text-anchor="middle">Tuần 8</text>
   </g>
-  <text x="340" y="285" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#555555">Tuần 9 của NHS (làm thêm sau tuần 8): chạy liên tục 30 phút.</text>
+  <text x="340" y="285" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#555555">Sau tuần 8: tăng thêm 3 phút mỗi tuần tới 30 phút liên tục.</text>
 </svg>

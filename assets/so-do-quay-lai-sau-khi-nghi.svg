@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 400" role="img" aria-label="Quay lại sau khi nghỉ chạy: dưới 1 tuần thì tập lại tuần trước đó; 1 đến 2 tuần thì lùi lại 1 đến 2 tuần và chạy chậm hơn; 3 đến 4 tuần thì đi bộ nhanh rồi xen kẽ chạy 1 phút, đi bộ 1 phút 30 giây; trên 1 tháng thì xây lại từ đi bộ nhanh vài buổi; quy tắc 10 phần trăm mỗi tuần và ít nhất 1 ngày nghỉ mỗi tuần">
   <rect width="680" height="400" fill="#ffffff"/>
   <text x="340" y="28" font-family="sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1a3a4a">Quay lại sau khi nghỉ: gợi ý theo thời gian đã nghỉ</text>
-  <text x="340" y="48" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#555555">Theo Bài 13 (Mayo Clinic, REI, NHS). Bảng gợi ý sắp xếp, không phải bảng của nguồn.</text>
+  <text x="340" y="48" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#555555">Theo bài “Nghỉ chạy và quay lại” (Mayo Clinic, REI, NHS). Bảng gợi ý sắp xếp, không phải bảng của nguồn.</text>
   <g font-family="sans-serif" font-size="13" fill="#1a3a4a">
     <rect x="40" y="66" width="150" height="56" fill="#2e7d6b"/><text x="115" y="100" text-anchor="middle" font-weight="bold" fill="#ffffff">Dưới 1 tuần</text>
     <rect x="200" y="66" width="440" height="56" fill="#bcd8d2"/><text x="220" y="100" font-size="12">Tập lại tuần trước đó trong lịch</text>
@@ -14,5 +14,5 @@
   </g>
   <text x="340" y="352" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#1a3a4a">Quy tắc 10%: mỗi tuần chỉ tăng tối đa 10% so với tuần trước (REI).</text>
   <text x="340" y="372" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#1a3a4a">Ít nhất 1 ngày nghỉ mỗi tuần khi mới bắt đầu lại.</text>
-  <text x="340" y="392" font-family="sans-serif" font-size="11" text-anchor="middle" fill="#555555">Hình minh họa tự vẽ.</text>
+  <text x="340" y="392" font-family="sans-serif" font-size="11" text-anchor="middle" fill="#555555">Hình minh họa được vẽ riêng cho website.</text>
 </svg>

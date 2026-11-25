@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 380" role="img" aria-label="Chạy mùa mưa: mưa phùn nhẹ không sấm thì chạy được, mặc đồ chống nước nhẹ; nghe sấm hoặc thấy chớp thì dừng ngay, chờ ít nhất 30 phút sau tiếng sấm cuối cùng; đường ngập nước đang chảy thì không chạy qua, nước chảy nhanh 15 cm đủ quật ngã người lớn, 30 cm có thể cuốn trôi xe">
   <rect width="680" height="380" fill="#ffffff"/>
   <text x="340" y="28" font-family="sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1a3a4a">Chạy mùa mưa: quyết định nhanh theo thời tiết</text>
-  <text x="340" y="48" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#555555">Theo Bài 18 (REI, National Weather Service, NHS).</text>
+  <text x="340" y="48" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#555555">Theo bài “Chạy bộ mùa mưa” (REI, National Weather Service, NHS).</text>
   <g font-family="sans-serif" font-size="13" fill="#1a3a4a">
     <rect x="40" y="66" width="200" height="72" fill="#2e7d6b"/><text x="140" y="94" text-anchor="middle" font-weight="bold" fill="#ffffff">Mưa phùn nhẹ,</text><text x="140" y="114" text-anchor="middle" font-weight="bold" fill="#ffffff">không sấm</text>
     <rect x="250" y="66" width="390" height="72" fill="#bcd8d2"/><text x="270" y="94" font-size="12">Chạy được, mặc đồ chống nước nhẹ,</text><text x="270" y="114" font-size="12">chạy chậm hơn bình thường</text>
@@ -12,5 +12,5 @@
   </g>
   <text x="340" y="330" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#1a3a4a">Dự báo mưa đá, gió mạnh: ở nhà, thay bằng tập trong nhà hoặc nghỉ một buổi.</text>
   <text x="340" y="350" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#1a3a4a">Kiểm tra trước khi ra khỏi nhà: dự báo, trang phục, mũ, giày, tuyến đường, đồ khô dự phòng.</text>
-  <text x="340" y="372" font-family="sans-serif" font-size="11" text-anchor="middle" fill="#555555">Hình minh họa tự vẽ.</text>
+  <text x="340" y="372" font-family="sans-serif" font-size="11" text-anchor="middle" fill="#555555">Hình minh họa được vẽ riêng cho website.</text>
 </svg>
