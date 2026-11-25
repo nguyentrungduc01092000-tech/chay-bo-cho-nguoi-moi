@@ -15,6 +15,7 @@ a{color:#1f6f5c;overflow-wrap:anywhere}
 p,li,td{overflow-wrap:break-word}
 img{max-width:100%;height:auto}
 figure{margin:1.5em 0;text-align:center}
+figure img{width:100%;height:auto;display:block}
 figcaption{font-size:.9rem;color:#555;margin-top:6px}
 .table-wrap{overflow-x:auto;margin:1em 0}
 table{border-collapse:collapse;width:100%;font-size:.95rem}
