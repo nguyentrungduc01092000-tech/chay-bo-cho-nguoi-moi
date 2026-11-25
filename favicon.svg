@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Biểu tượng website Chạy bộ cho người mới bắt đầu</title>
+  <desc>Hình vuông bo góc màu cam cháy, bên trong là hình người đang chạy màu trắng vẽ bằng nét đậm.</desc>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#c2410c"/>
+  <g stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M38 24 L31 37"/>
+    <path d="M37 27 L48 31"/>
+    <path d="M36 28 L25 33"/>
+    <path d="M31 37 L41 46 L49 43"/>
+    <path d="M31 37 L23 47 L15 53"/>
+  </g>
+  <circle cx="41" cy="15" r="5.5" fill="#fff"/>
+</svg>
