@@ -11,5 +11,5 @@
     <rect x="230" y="254" width="410" height="84" fill="#bcd8d2"/><text x="250" y="282" font-size="12">Dải đo 30–210 nhịp/phút; đèn LED nhấp nháy</text><text x="250" y="302" font-size="12">hàng trăm lần mỗi giây; đeo vừa khít giúp đo ổn định hơn</text>
   </g>
   <text x="340" y="368" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#1a3a4a">Con số nhịp tim CDC lấy từ bản lưu trữ chính thức của trang CDC (xem bài “Đồng hồ và ứng dụng đo chạy bộ”).</text>
-  <text x="340" y="392" font-family="sans-serif" font-size="11" text-anchor="middle" fill="#555555">Hình minh họa được vẽ riêng cho website.</text>
+  <text x="340" y="392" font-family="sans-serif" font-size="11" text-anchor="middle" fill="#555555">Sơ đồ đồng hồ và ứng dụng: đọc đúng 3 con số.</text>
 </svg>
